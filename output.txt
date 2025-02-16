@@ -1,0 +1,169 @@
+mujtabo@Mujtabos-MacBook-Pro lm1 % ./main
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+2
+Masukkan ID, Nama, Kategori, Harga:
+101
+Luna
+Cat
+2500000
+Data berhasil ditambahkan!
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+2
+Masukkan ID, Nama, Kategori, Harga:
+102
+Rocky
+Dog
+3800000
+Data berhasil ditambahkan!
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+103
+Pilihan tidak valid!
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+2
+Masukkan ID, Nama, Kategori, Harga:
+103
+Coco
+Parrot
+1200000
+Data berhasil ditambahkan!
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+2
+Masukkan ID, Nama, Kategori, Harga:
+104
+Bubbles
+Fish
+300000
+Data berhasil ditambahkan!
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+1
+
+Daftar Petshop:
+----------------------------------
+|ID  |Name    |Category |Price   |
+----------------------------------
+|101 |Luna    |Cat      |2500000 |
+----------------------------------
+|102 |Rocky   |Dog      |3800000 |
+----------------------------------
+|103 |Coco    |Parrot   |1200000 |
+----------------------------------
+|104 |Bubbles |Fish     |300000  |
+
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+3
+Masukkan ID yang ingin diubah: 104
+Masukkan Nama, Kategori, Harga baru untuk item tersebut: 
+Bubbles
+Fish
+123456789
+Data berhasil diubah
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+1
+
+Daftar Petshop:
+------------------------------------
+|ID  |Name    |Category |Price     |
+------------------------------------
+|101 |Luna    |Cat      |2500000   |
+------------------------------------
+|102 |Rocky   |Dog      |3800000   |
+------------------------------------
+|103 |Coco    |Parrot   |1200000   |
+------------------------------------
+|104 |Bubbles |Fish     |123456789 |
+
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+5
+Masukkan ID yang ingin dicari: 102
+Data ditemukan:
+------------------------------------
+|ID  |Name    |Category |Price     |
+------------------------------------
+|101 |Luna    |Cat      |2500000   |
+------------------------------------
+|102 |Rocky   |Dog      |3800000   |
+------------------------------------
+|103 |Coco    |Parrot   |1200000   |
+------------------------------------
+|104 |Bubbles |Fish     |123456789 |
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+4
+Masukkan ID yang ingin dihapus: 104
+Menghapus data dengan ID104...
+Data berhasil dihapus
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+1
+
+Daftar Petshop:
+--------------------------------
+|ID  |Name  |Category |Price   |
+--------------------------------
+|101 |Luna  |Cat      |2500000 |
+--------------------------------
+|102 |Rocky |Dog      |3800000 |
+--------------------------------
+|103 |Coco  |Parrot   |1200000 |
+
+1. Menampilkan data yang tersedia
+2. Menambahkan data baru
+3. Mengubah data yang sudah ada
+4. Menghapus data yang diinginkan
+5. Mencari data yang diinginkan berdasarkan nama produk
+6. Keluar
+6
+Keluar dari program
