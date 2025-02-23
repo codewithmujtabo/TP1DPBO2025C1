@@ -5,4 +5,18 @@
 // melakukan kecurangan seperti yang telah dispesifikan.
 // Aamin!
 
-# TP1DPBO2025C1
+# JAVA
+![alt text](hasil_java1.png)
+![alt text](hasil_java2.png)
+![alt text](hasil_java3.png)
+
+# PYTHON
+![alt text](hasil_python1.png)
+![alt text](hasil_python2.png)
+![alt text](hasil_python3.png)
+
+# PHP
+![alt text](hasil_php1.png)
+![alt text](hasil_php2.png)
+![alt text](hasil_php3.png)
+![alt text](hasil_php4.png)
